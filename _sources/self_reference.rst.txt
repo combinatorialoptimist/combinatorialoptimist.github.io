@@ -1,0 +1,24 @@
+
+.. post:: Sep 25, 2018
+	:tags: help, example
+	:author: Dane Taylor
+	:category: Example, How To
+
+How I created this this blog
+============================
+
+I created this blog following the introduction descibed at
+https://ablog.readthedocs.io/. \* First I installed the python modules
+Sphynx and ABlog using "conda install ...." \* Then, in I entered "ablog
+start" into the terminal. \* Next, I created a new jupyter notebook,
+which you can see at \_static/self\_reference.ipynb see here, which
+contains exactly what you are reading. \* After that, I saved the .ipynb
+file as a .rst file, which I moved into the folder for my ablog. \*
+Next, I entered "ablog build" into the terminal. And voila!
+
+At the top of each jupyter notebook, I write info about the blog such
+as: 
+
+.. image:: _static/post_pic.png
+	:width: 400
+	:alt: Alternative text
