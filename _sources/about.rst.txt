@@ -5,3 +5,5 @@ About Dane Taylor
 ============================
 
 I am an Assistant Professor of Applied Mathematics at the University at Buffalo, State University of New York (SUNY). I develop mathematical techniques for network-based models of high-dimensional data and complex systems. 
+
+You can view my research webpage here: https://sites.google.com/site/danetaylorresearch/
