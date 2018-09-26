@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to The Combinatorial Optimist!
+The Combinatorial Optimist!
 ==================================================
 
 Blogging for applied, computational and interdisciplinary mathematics.  Thematically, posts will describe a wide variety of topics including high-dimensional data science (mining/preprocessing/storage/analysis), complex systems, newtork science, social networks, biological systems, artificial intelligence, intelligent systems, critical infrasturcures, information technology, nonlinear dynamics, statistical physics, etc. Mathematically, posts may describe mathematical modeling, numerical analysis, probability theory, statistical inference, random-matrix theory, computational topology, high-dimensional geometry, etc. Application-focused applied mathematicians understand and utilize a diverse set of mathematical techniques, and you can too.
