@@ -6,11 +6,11 @@
 Welcome to The Combinatorial Optimist!
 ==================================================
 
-Blogging for applied mathematics, with particular focus on mathematical techniqies for high-dimensional complex systems and data science. Thematically, posts will describe a wide variety of topics including data science (mining/preprocessing/storage/analysis), social networks, biological systems, artificial intelligence, intelligent systems, critical infrasturcures, information technology, nonlinear dynamics, statistical physics, network science, complex systems, etc. Mathematically, posts may describe mathematical modeling, numerical analysis, probability theory, statistical inference, random-matrix theory, computational topology, high-dimensional geometry, etc. Application-focused applied mathematicians understand and utilize a diverse set of mathematical techniques, and you can too.
+Blogging for applied, computational and interdisciplinary mathematics.  Thematically, posts will describe a wide variety of topics including high-dimensional data science (mining/preprocessing/storage/analysis), complex systems, newtork science, social networks, biological systems, artificial intelligence, intelligent systems, critical infrasturcures, information technology, nonlinear dynamics, statistical physics, etc. Mathematically, posts may describe mathematical modeling, numerical analysis, probability theory, statistical inference, random-matrix theory, computational topology, high-dimensional geometry, etc. Application-focused applied mathematicians understand and utilize a diverse set of mathematical techniques, and you can too.
 
 Never forget the Combinatorial Optimist Motto: Keep trying. You can do it!
 
-Let's get math-ing.
+New let's get math-ing.
 
 
 Most recent posts:
